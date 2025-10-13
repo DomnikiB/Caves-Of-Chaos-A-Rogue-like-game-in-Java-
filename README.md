@@ -1,14 +1,14 @@
 # Caves-Of-Chaos-A-Rogue-like-game-in-Java
 A Rogue-like game in Java
 
-# 🌀 Logrus: The Trial of Chaos
+## Logrus: The Trial of Chaos
 
 The nobles of the **Court of Chaos** never gain their full powers until they traverse the labyrinthine caverns of **Logrus** and face the **Reptile of Chaos**.  
 As a noble of Chaos, your goal is to overcome the trial, conquer the Labyrinth, and touch the **Jewel of Judgement** — said to be one of the Serpent’s very eyes.
 
 ---
 
-## 🗺️ Game Description
+## Game Description
 
 The world of the game consists of **ten levels** of caverns, each represented as a **two-dimensional grid of tiles**.  
 Each tile can be:
@@ -23,7 +23,7 @@ At the **tenth level**, the final challenge awaits — the **Reptile of Chaos**,
 
 ---
 
-## 🎮 Game Controls
+## Game Controls
 
 | Action | Key | Description |
 |---------|-----|-------------|
@@ -36,7 +36,7 @@ At the **tenth level**, the final challenge awaits — the **Reptile of Chaos**,
 
 ---
 
-## 🧱 Features
+## Features
 
 -**Two Playable Classes:** choose between the **Wizard** or **Duelist**, each offering a distinct combat style and abilities.  
 - **10 Dungeon Levels:** filled with secrets, traps, and hidden paths.  
