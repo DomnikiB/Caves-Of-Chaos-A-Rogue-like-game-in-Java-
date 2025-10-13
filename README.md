@@ -38,7 +38,7 @@ At the **tenth level**, the final challenge awaits — the **Reptile of Chaos**,
 
 ## Features
 
--**Two Playable Classes:** choose between the **Wizard** or **Duelist**, each offering a distinct combat style and abilities.  
+- **Two Playable Classes:** choose between the **Wizard** or **Duelist**, each offering a distinct combat style and abilities.  
 - **10 Dungeon Levels:** filled with secrets, traps, and hidden paths.  
 - **27 Unique Item Types:** including weapons, potions and traps.  
 - **10 Enemy Types:** each with different behaviors, strengths, and weaknesses.  
