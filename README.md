@@ -50,9 +50,9 @@ At the **tenth level**, the final challenge awaits — the **Reptile of Chaos**,
 ---
 
 ## Game Environment
-![Game Intro](./cavesOfChaosIntro.png) 
-![Game Controls](./cavesOfChaosIntro2.png) 
-![Game Environment](./cavesOfChaos.png)  
+![Game Intro](./Screenshots/cavesOfChaosIntro.png) 
+![Game Controls](./Screenshots/cavesOfChaosIntro2.png) 
+![Game Environment](./Screenshots/cavesOfChaos.png)  
 
 ---
 
