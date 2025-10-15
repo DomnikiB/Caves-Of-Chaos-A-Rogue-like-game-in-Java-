@@ -49,7 +49,12 @@ At the **tenth level**, the final challenge awaits — the **Reptile of Chaos**,
 
 ---
 
-## 🖼️ Game Environment
+## Game Environment
 ![Game Intro](./cavesOfChaosIntro.png) 
 ![Game Controls](./cavesOfChaosIntro2.png) 
 ![Game Environment](./cavesOfChaos.png)  
+
+---
+
+## How to play
+Download the .jar file and enjoy! 
